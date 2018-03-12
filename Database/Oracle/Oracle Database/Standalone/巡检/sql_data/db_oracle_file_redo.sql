@@ -1,0 +1,1 @@
+select group#,status,type,member from v$logfile

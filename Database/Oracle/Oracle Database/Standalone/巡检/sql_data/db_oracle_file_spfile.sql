@@ -1,0 +1,1 @@
+select num,name,type,value from v$parameter where name='spfile'

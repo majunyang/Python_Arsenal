@@ -1,0 +1,1 @@
+select * from v$option a where a.PARAMETER='Real Application Clusters'
